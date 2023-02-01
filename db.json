@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "yaswanth",
+      "lastname": "kumar",
+      "birthdate": "2000-09-06",
+      "gender": "m",
+      "education": "graduate",
+      "company": "wipro",
+      "jobExperience": 20,
+      "salary": 80000,
+      "profile": "Screenshot (1).png",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
